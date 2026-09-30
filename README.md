@@ -5,4 +5,5 @@
 3. doruri /home 화면 슬라이드 이미지 3개 만들기 구상해서.
 4. doruri 소개 페이지 구상하기.
 5. doruri 점수 테이블 랭킹 구상하기.
-6. 
+6. 개발자 유미꺼 spring security
+7. 
