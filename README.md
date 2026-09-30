@@ -6,4 +6,5 @@
 4. doruri 소개 페이지 구상하기.
 5. doruri 점수 테이블 랭킹 구상하기.
 6. 개발자 유미꺼 spring security
-7. 
+7. doruri 캐릭터 페이지 구상하기.
+8. 
